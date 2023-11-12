@@ -1,0 +1,11 @@
+
+numpy
+pandas
+matplotlib
+timedelta
+plotly
+datetime
+yfinance
+streamlit
+requests
+urllib
